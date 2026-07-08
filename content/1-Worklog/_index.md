@@ -1,36 +1,33 @@
 ---
-title: "Worklog"
-date: 2026-07-05
-weight: 1
-chapter: false
-pre: " <b> 1. </b> "
+Title: "Work Log"
+Date: 2026-07-05
+Weight: 1
+Chapter: False
+Pre: "<b>1.</b>"
 ---
 
+Below is my worklog, completed over approximately 3 months (during my internship), with the weekly content as follows:
 
-**On this page**, you will need to introduce your worklog. **How** did you complete it? How many weeks did you take to complete the program? **What** did you do in those weeks?
+**Week 1:** [Getting acquainted with AWS services and creating an AWS account](1.1-Week1/)
 
-Typically, and as a standard, a worklog is carried out over about 3 months (throughout the internship period) with weekly contents as follows:
+**Week 2:** [Learning IAM and AWS cost management](1.2-Week2/)
 
-**Week 1:** [Worklog Week 1](1.1-week1/)
+**Week 3:** [Learning about AWS Internal Networks (VPC)](1.3-Week3/)
 
-**Week 2:** [Worklog Week 2](1.2-week2/)
+**Week 4:** [Basic Storage and Hosting with S3](1.4-Week4/)
 
-**Week 3:** [Worklog Week 3](1.3-week3/)
+**Week 5:** [Learning about EC2 Virtual Servers and RDS Databases](1.5-Week5/)
 
-**Week 4:** [Worklog Week 4](1.4-week4/)
+**Week 6:** [Getting acquainted with Serverless, AWS Lambda, and API Gateway](1.6-Week6/)
 
-**Week 5:** [Worklog Week 5](1.5-week5/)
+**Week 7:** [Learning about NoSQL and user management with Cognito](1.7-Week7/)
 
-**Week 6:** [Worklog Week 6](1.6-week6/)
+**Week 8:** [Frontend interaction, understanding AWS security and monitoring](1.8-Week8/)
 
-**Week 7:** [Worklog Week 7](1.7-week7/)
+**Week 9:** [Developing the architecture and deploying the platform for the Project](1.9-Week9/)
 
-**Week 8:** [Worklog Week 8](1.8-week8/)
+**Week 10:** [Deploying the Project](1.10-Week10/)
 
-**Week 9:** [Worklog Week 9](1.9-week9/)
+**Week 11:** [Deploying the Project](1.11-Week11/)
 
-**Week 10:** [Worklog Week 10](1.10-week10/)
-
-**Week 11:** [Worklog Week 11](1.11-week11/)
-
-**Week 12:** [Worklog Week 12](1.12-week12/)
+**Week 12:** [Deploying the Project](1.12-Week12/)
