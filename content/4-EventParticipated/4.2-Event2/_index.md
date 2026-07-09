@@ -49,9 +49,13 @@ pre: " <b> 4.2. </b> "
 - Learning AWS through simulation and hands-on practice instead of just theory.
 - Supporting learners in building a clear roadmap to improve skills and prepare for AWS certifications.
 
-#### AI Applications & Hackathon Experience
+#### AI Applications
 
 - Introduction to the **Dai Viet Astrology** model, illustrating how AI is applied to traditional fields.
+- Sharing practical perspectives on applying these principles to other fields and how to handle problems when encountering difficulties.
+
+#### Hackathon Experience
+
 - Sharing experiences from the **The Ballers** team participating in a Hackathon, including product development, bug fixing, and working under time pressure.
 - Providing a practical perspective on problem-solving skills and teamwork in a technology environment.
 

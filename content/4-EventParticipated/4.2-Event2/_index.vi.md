@@ -51,12 +51,15 @@ pre: " <b> 4.2. </b> "
 - Học AWS thông qua mô hình mô phỏng và thực hành thay vì chỉ học lý thuyết.
 - Hỗ trợ người học xây dựng lộ trình rõ ràng để nâng cao kỹ năng và chuẩn bị cho các chứng chỉ AWS.
 
-#### AI Applications & Hackathon Experience
+#### AI Applications
 
 - Giới thiệu mô hình **Tử vi Đại Việt**, minh họa cách AI được ứng dụng vào các lĩnh vực truyền thống.
+- Chia sẻ những góc nhìn thực tế khi áp dụng các lĩnh vực khác và cách xử lí vấn đề khi gặp khó khăn.
+
+#### Hackathon Experience
+
 - Chia sẻ kinh nghiệm tham gia Hackathon từ nhóm **The Ballers**, bao gồm quá trình xây dựng sản phẩm, xử lý lỗi và làm việc dưới áp lực thời gian.
 - Mang đến góc nhìn thực tế về kỹ năng giải quyết vấn đề và tinh thần làm việc nhóm trong môi trường công nghệ.
-
 
 ### Những Gì Học Được
 

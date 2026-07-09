@@ -19,10 +19,10 @@ Pre: "<b>4.3.</b>"
 
 - **Bao Huynh** - Docker - A Containerization Technology
 - **Le Hoang Gia Dai** - AWS WAF Combined with Machine Learning
-- **Nguyen Quoc Bao** - Multiplayer Game Development on the Cloud
-- **Truong Phuoc** - Teamwork
+- **Nguyen Quoc Bao** - Multiplayer in the Cloud
+- **Truong Phuoc** - The Art of effective teamwork
 - **Viet Phat** - GraphRAG with AWS Neptune
-- **Vinh Tran** - Career Journey
+- **Tran Trung Vinh** - From IT Helpdesk to Senior Sysadmin
 
 ### Featured Content
 

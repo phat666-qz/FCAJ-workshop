@@ -20,10 +20,10 @@ pre: " <b> 4.3. </b> "
 
 - **Bảo Huỳnh** - Docker - A containerization technology
 - **Lê Hoàng Gia Đại** - AWS WAF kết hợp Machine Learning 
-- **Nguyễn Quốc Bảo** - Multiplayer Game Development trên Cloud
-- **Trương Phước** - Teamwork
+- **Nguyễn Quốc Bảo** - Multiplayer trên Cloud
+- **Trương Phước** - Nghệ thuật làm việc nhóm hiệu quả
 - **Việt Phát** - GraphRAG với AWS Neptune
-- **Vinh Trần** - Career Journey
+- **Tran Trung Vinh** - Từ IT Helpdesk đến Senior Sysadmin
 
 ### Nội Dung Nổi Bật
 
