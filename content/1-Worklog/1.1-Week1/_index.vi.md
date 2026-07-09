@@ -13,7 +13,7 @@ pre: " <b> 1.1. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |
-| Thứ 6 | - Làm quen với FCAJ, đọc nội quy thực tập | 17/04/2026 | 17/04/2026 |  |
+| Thứ 6 | - Làm quen với FCAJ, đọc nội quy thực tập | 17/04/2026 | 17/04/2026 | https://cloudjourney.awsstudygroup.com/ |
 | Thứ 2 | - Tìm hiểu Cloud là gì, IaaS/PaaS/SaaS, các mô hình Cloud | 20/04/2026 | 20/04/2026 | <https://www.youtube.com/@AWSStudyGroup> |
 | Thứ 3 | - AWS Global Infrastructure & Well-Architected Overview | 21/04/2026 | 21/04/2026 | <https://www.youtube.com/@AWSStudyGroup> |
 | Thứ 4 | - **Lab:** Creating Your First AWS Account | 22/04/2026 | 22/04/2026 | <https://000001.awsstudygroup.com/> |

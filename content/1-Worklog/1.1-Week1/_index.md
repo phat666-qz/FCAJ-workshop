@@ -13,7 +13,7 @@ pre: " <b> 1.1. </b> "
 ### Tasks to implement this week:
 | Day | Task | Start Date | End Date | Resource |
 | --- | ---- | ---------- | -------- | -------- |
-| Friday | - Familiarize with FCAJ, read internship rules | 17/04/2026 | 17/04/2026 |  |
+| Friday | - Familiarize with FCAJ, read internship rules | 17/04/2026 | 17/04/2026 | https://cloudjourney.awsstudygroup.com/ |
 | Monday | - Learn what Cloud is, IaaS/PaaS/SaaS, Cloud models | 20/04/2026 | 20/04/2026 | <https://www.youtube.com/@AWSStudyGroup> |
 | Tuesday | - AWS Global Infrastructure & Well-Architected Overview | 21/04/2026 | 21/04/2026 | <https://www.youtube.com/@AWSStudyGroup> |
 | Wednesday | - **Lab:** Creating Your First AWS Account | 22/04/2026 | 22/04/2026 | <https://000001.awsstudygroup.com/> |
